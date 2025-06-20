@@ -16,8 +16,9 @@ A comprehensive Flutter application demonstrating various gesture recognition ca
 
 ### Main Interface
 ```
-![alt text](image.png)
+assets/images/image.png
 ```
+
 
 ### Gesture Interactions
 
