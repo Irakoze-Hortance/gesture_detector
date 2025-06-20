@@ -16,7 +16,8 @@ A comprehensive Flutter application demonstrating various gesture recognition ca
 
 ### Main Interface
 ```
-assets/images/image.png
+![image](https://github.com/user-attachments/assets/2d09f863-71f8-4813-b211-a84a18375a4d)
+
 ```
 
 
